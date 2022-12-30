@@ -3,3 +3,5 @@ It employs a randomizer to generate an SVG NFT that is subsequently deployed and
 It used Hardhat for deployment.
 To view the platform, run the following command (a blockchain has already been deployed with this code):
 npm run start
+The collection of NFTs can be viewed at:
+https://testnets.opensea.io/collection/dynamicsvg-0xgvhcg5ng
